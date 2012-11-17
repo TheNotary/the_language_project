@@ -1,4 +1,18 @@
 TheLanguageProject::Application.routes.draw do
+  get "pages/home"
+
+  get "pages/tools"
+
+  get "pages/alphabet"
+
+  get "pages/pronunciations"
+
+  get "pages/initial_vocab"
+
+  get "pages/grammar"
+  
+  root :to => "pages#home"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
