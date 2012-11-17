@@ -1,0 +1,65 @@
+::Executive Summary
+
+The short term goal of this web application is to teach me Arabic.  This application will contain all of the notes I use to learn the language, and will also include "games" that help me get good at reading and writing Arabic.  
+
+The long term goal is to teach all English Speakers Arabic, and Arabic speakers English.  
+
+
+The web app will include:
+1)  Notes and summaries
+2)  Memorization Games
+3)  Pronunciation Help
+4)  Links to media of the target language
+
+
+
+
+:: Details/ Outline
+
+
+The app will be seperated into modules.  
+
+
+
+0)  Tools
+  -Typing software on the computer and printout keyboards
+  
+  -Dictionaries
+  
+  -Video/Audio Sources
+    -Children's media
+    -Adult Media
+  
+  -Browsers and addons
+  
+
+1)  Alphabet
+  -The Print and Their names
+    -Game:  Galaga Shooter, to destroy a specific letter when it's called out
+    -Game:  Point and click letter find. 
+
+
+2)  Pronunciations
+  -Basic pronunciations
+  
+  -Accents
+  
+  -Tricky Rules
+  
+
+3)  Initial Vocabulary
+  -Do childrens Picture books to teach some words
+    -Include a summary for more information if people are curious
+  
+  -Learns some rules, and read some childrens books from kindergarden.  
+    -Game:  Click the proper gender word (he/she) to go with the picture
+    -Game:  Click the proper verb (run/sleep/eat) to go with the picture
+
+  -Pronunciations:  -tricky rules discussed as they appear  
+
+4)  Copula, prepositions, and Grammar stuff...  Transformative Grammar
+  
+  
+
+
+
