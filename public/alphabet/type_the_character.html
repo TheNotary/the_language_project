@@ -3,6 +3,7 @@
 	<head>
 		<title>Type the Character</title>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="/javascripts/webAudioApiForDesigners.js"></script>
 		<style>
 			
 			#gameWindow{
@@ -37,11 +38,11 @@
 	var correctCount = 0;
 	var incorrectCount = 0;
 	
-	var alphabet = ("abcdefghijklmnopqrstuvwxyz").split("");
-	var alphabetHomeEight = "asdfjklQ".split("");
-	var alphabetHomeRow = "asdfghjkl;".split("");
-	var alphabetTopRow = "qwertyuiop".split("");
-	var alphabetBottomRow = "zxcvbnm".split("");
+	var engAlphabet = ("abcdefghijklmnopqrstuvwxyz").split("");
+	var engAlphabetHomeEight = "asdfjklQ".split("");
+	var engAlphabetHomeRow = "asdfghjkl;".split("");
+	var engAlphabetTopRow = "qwertyuiop".split("");
+	var engAlphabetBottomRow = "zxcvbnm".split("");
 	
 	
 	function btnStart(){
@@ -71,7 +72,7 @@
 	}
 	
 	function chooseRandomLetter(removeThisLetter){
-		var pool = alphabetHomeEight.slice(0);
+		var pool = engAlphabetHomeEight.slice(0);
 		pool = removeCharacterFromArray(pool, removeThisLetter);
 		var n = pool.length;
 		var randomLetter = Math.floor(Math.random()*n);
